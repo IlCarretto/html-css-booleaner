@@ -20,3 +20,12 @@ img{
     height: 100px;
     margin-top: 5%;
 }
+
+/* MAIN */
+#title{
+    font-size: 36px;
+    margin-top: 10px;
+}
+#subtitle{
+    color: grey;
+}
