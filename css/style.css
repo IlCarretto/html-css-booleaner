@@ -15,17 +15,30 @@
    background-image: url(../img/pattern.png);
    background-size:auto;
 }
-img{
+#banner img{
     width: 20%;
     height: 100px;
-    margin-top: 5%;
+    margin-top: 80px;
 }
 
 /* MAIN */
+
+/* Prima Sezione */
 #title{
-    font-size: 36px;
+    font-size: 64px;
     margin-top: 10px;
 }
 #subtitle{
     color: grey;
+}
+
+/* Seconda Sezione */
+#foto{
+    padding: 10px;
+    background-size: cover;
+}
+
+#container{
+    width: 95%;
+    height: 500px;
 }
