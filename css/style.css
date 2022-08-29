@@ -29,7 +29,7 @@ main{
     margin-left: 10px;
 }
 
-/* Prima Sezione */
+/* Sezione Titolo */
 #title{
     font-size: 64px;
 }
@@ -37,17 +37,17 @@ main{
     color: grey;
 }
 
-/* Seconda Sezione */
+/* Sezione Foto */
 #foto{
     padding: 10px;
 }
 
-/* Terza Sezione */
+/* Sezione Primo Paragrafo */
 p span{
     background-color: yellow;
 }
 
-/* Quarta Sezione */
+/* Sezione Lista */
 #lista{
     margin-left: 10px;
 }
@@ -78,16 +78,17 @@ footer{
     background-image: url(../img/monitor.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-}
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+    }
 
 #foto-2{
     height: 200px;
     background-image: url(../img/graph.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-}
-
-div span{
     color: white;
     padding: 20px;
+    margin-top: 10px;
 }
