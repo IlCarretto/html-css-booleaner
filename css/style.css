@@ -7,6 +7,10 @@
 
 /* COMMON */
 
+section{
+    margin-top: 20px;
+}
+
 /* HEADER */
 #banner {
    width: 100%;
@@ -22,11 +26,13 @@
 }
 
 /* MAIN */
+main{
+    margin-left: 10px;
+}
 
 /* Prima Sezione */
 #title{
     font-size: 64px;
-    margin-top: 10px;
 }
 #subtitle{
     color: grey;
@@ -35,10 +41,35 @@
 /* Seconda Sezione */
 #foto{
     padding: 10px;
-    background-size: cover;
 }
 
-#container{
-    width: 95%;
-    height: 500px;
+/* Terza Sezione */
+p span{
+    background-color: yellow;
+}
+
+/* Quarta Sezione */
+#lista{
+    margin-left: 10px;
+}
+
+/* Sezione Tabella */
+table{
+}
+
+th{
+    background-color: aqua;
+}
+
+.blue{
+    background-color: #4ea0ff;
+}
+
+/* FOOTER */
+footer{
+    margin-left: 20px;
+}
+
+#Footer-Paragraph{
+    color: grey;
 }
