@@ -42,7 +42,7 @@ main{
     padding: 10px;
 }
 
-/* Sezione Primo Paragrafo */
+/* Sezione Paragrafi */
 p span{
     background-color: yellow;
 }
@@ -54,6 +54,11 @@ p span{
 
 /* Sezione Tabella */
 table{
+    border-spacing: 0px;
+}
+
+td{
+    padding: 20px;
 }
 
 th{
